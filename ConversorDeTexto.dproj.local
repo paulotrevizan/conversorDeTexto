@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/11 20:45:14.489.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\Principal.pas</Transaction>
+    <Transaction>2019/12/11 20:45:14.489.dfm,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.dfm=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\Principal.dfm</Transaction>
+    <Transaction>2019/12/11 20:50:49.377.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\Conversao.pas</Transaction>
+    <Transaction>2019/12/11 20:53:10.902.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConverteTexto.pas</Transaction>
+    <Transaction>2019/12/11 20:55:16.535.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConverteInvertido.pas</Transaction>
+    <Transaction>2019/12/11 20:55:48.301.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConvertePrimeiraMaiuscula.pas</Transaction>
+    <Transaction>2019/12/11 20:58:59.147.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Unit2.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConverteOrdenado.pas</Transaction>
+    <Transaction>2019/12/11 20:59:07.179.dproj,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConversorDeTexto.dproj</Transaction>
+    <Transaction>2019/12/11 21:01:35.465.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\Unit1.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConversaoFactory.pas</Transaction>
+    <Transaction>2019/12/11 21:09:59.607.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConversaoFactory.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\FactoryMethod.pas</Transaction>
+    <Transaction>2019/12/11 21:10:17.803.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\Unit1.pas=C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\ConversaoFactory.pas</Transaction>
+    <Transaction>2019/12/11 21:17:00.232.pas,C:\Documents and Settings\Administrador\Meus documentos\RAD Studio\Projects\ConversorDeTexto\FactoryMethod.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
